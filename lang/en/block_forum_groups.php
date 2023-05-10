@@ -32,3 +32,5 @@ $string['nogroups'] = 'Sorry, no groups here !';
 $string['title'] = 'Forum Groups';
 $string['showall'] = 'Show all groups';
 $string['notconfiguredblock'] = "This block isn't configured yet";
+$string['forum_groups:myaddinstance'] = 'Add Forum Groups instance to the dashboard';
+$string['forum_groups:addinstance'] = 'Add Forum Groups instance';
